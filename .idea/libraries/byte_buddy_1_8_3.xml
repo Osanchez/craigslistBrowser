@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="byte-buddy-1.8.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Dependencies/byte-buddy-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/client-combined-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/commons-exec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/guava-23.6-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/httpclient-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/httpcore-4.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/okhttp-3.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/okio-1.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
