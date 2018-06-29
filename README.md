@@ -6,8 +6,7 @@ I created this application to help me stay up to date with car postings that I w
 #WORKINPROGRESS
 
 # Version 0.1
-Input - Year, Make, Model, Price Range
-Automation - Searches craiglist with given Values
+Input - Year, Make, Model, Price Range | Automation - Searches craiglist with given Values.
 
 # TODO:
 Research more JSON Parsers to collect data from pages. 
